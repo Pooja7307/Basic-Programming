@@ -11,3 +11,8 @@ function isPrime(num) {
     }
     return true;
 }console.log(isPrime(59)); 
+function checkEvenOdd(num){
+if (num%2==0) return true ;
+}
+return false;
+checkEvenOdd(22)
